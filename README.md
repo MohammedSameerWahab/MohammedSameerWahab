@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedsameerwahab" alt="mohammedsameerwahab" /></a> </p>
 
-- 🔭 I’m currently working on **Scalable Multimodal RAG**
+- 🔭 I’m currently working on **Optimized Agentic Systems**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fa5V4dygBNa9Peej_1QkPJARdYaLlWqx/view?usp=sharing](https://drive.google.com/file/d/1fa5V4dygBNa9Peej_1QkPJARdYaLlWqx/view?usp=sharing)
 
