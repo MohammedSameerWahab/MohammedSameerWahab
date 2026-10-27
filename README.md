@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohammed Sameer Wahab</h1>
 <h3 align="center">A passionate AI/ML Enthusiast</h3>
 
-- 🔭 I’m currently working on **Optimized Agentic Systems**
+- 🔭 I’m currently working on **Optimized Agentic AI Software Systems**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fa5V4dygBNa9Peej_1QkPJARdYaLlWqx/view?usp=sharing](https://drive.google.com/file/d/1fa5V4dygBNa9Peej_1QkPJARdYaLlWqx/view?usp=sharing)
 
